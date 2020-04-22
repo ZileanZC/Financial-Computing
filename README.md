@@ -1,6 +1,6 @@
 # Financial-Computing-in-C++
 
-Using C++ to price Options.
+## Using C++ to price Options.
 
 This repository records the C++ code I wrote (retrived from: Prof. "RS" Sreenivas) to price European/American/Asian Options via different methods during Fall 2019.
 
